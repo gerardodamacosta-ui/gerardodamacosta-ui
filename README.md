@@ -32,9 +32,11 @@
 
 <div align="center">
 
-<a href="https://github.com/nexotsolutions-creator/valora-wallet-frontend" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nexotsolutions-creator&repo=valora-wallet-frontend&theme=dark&hide_border=true" />
-</a>
+**[Valora Wallet](https://github.com/nexotsolutions-creator/valora-wallet-frontend)** — billetera digital fintech, proyecto final de SoyHenry
+
+<img src="https://img.shields.io/github/stars/nexotsolutions-creator/valora-wallet-frontend?style=for-the-badge&color=2ECC71&labelColor=1a1a1a" />
+<img src="https://img.shields.io/github/languages/top/nexotsolutions-creator/valora-wallet-frontend?style=for-the-badge&color=2ECC71&labelColor=1a1a1a" />
+<img src="https://img.shields.io/github/last-commit/nexotsolutions-creator/valora-wallet-frontend?style=for-the-badge&color=2ECC71&labelColor=1a1a1a" />
 
 </div>
 
@@ -44,13 +46,17 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=gerardodamacosta-ui&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=gerardodamacosta-ui&theme=dark&hide_border=true" />
+<img src="https://img.shields.io/github/followers/gerardodamacosta-ui?label=Followers&style=for-the-badge&color=2ECC71&labelColor=1a1a1a&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fgerardodamacosta-ui&label=Repos%20p%C3%BAblicos&query=%24.public_repos&style=for-the-badge&color=2ECC71&labelColor=1a1a1a" />
 
 </div>
 
+---
+
+### 🐍 Actividad
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerardodamacosta-ui&layout=compact&theme=dark&hide_border=true" />
+<img src="https://raw.githubusercontent.com/gerardodamacosta-ui/gerardodamacosta-ui/output/snake-dark.svg" alt="snake animation" />
 </div>
 
 ---
@@ -62,7 +68,7 @@
 <a href="https://www.linkedin.com/in/gerardoacostadami" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:gerardo.dam.acosta@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=gerardo.dam.acosta@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
