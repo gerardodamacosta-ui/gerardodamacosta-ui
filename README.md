@@ -4,7 +4,7 @@
 
 <h1>¡Hola, soy Gerardo! 👋</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2ECC71&center=true&vCenter=true&width=550&lines=Frontend+Developer+%7C+Full+Stack;React+%2B+TypeScript+%2B+Vite;Construyendo+Valora+Wallet+%F0%9F%92%B3;Full+Stack+en+SoyHenry+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2ECC71&center=true&vCenter=true&width=550&lines=Frontend+Developer+%7C+Full+Stack;React+%2B+TypeScript+%2B+Vite;Colabor%C3%A9+en+Valora+Wallet+%F0%9F%92%B3;Full+Stack+en+SoyHenry+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
