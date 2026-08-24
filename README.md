@@ -23,7 +23,12 @@
 ### 🛠️ Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=react,ts,js,vite,html,css,git,github,figma,nodejs,firebase,vercel,aws,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,ts,js,vite,html,css,tailwind,git,github,nodejs,firebase,vercel,aws,vscode&theme=dark" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+<img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logoColor=white" />
 </div>
 
 ---
